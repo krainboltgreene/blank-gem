@@ -1,8 +1,8 @@
-# blank-gem
+# active_model-changelog
 
-  - [![Build](http://img.shields.io/travis-ci/krainboltgreene/blank-gem.svg?style=flat-square)](https://travis-ci.org/krainboltgreene/blank-gem)
-  - [![Downloads](http://img.shields.io/gem/dtv/blank-gem.svg?style=flat-square)](https://rubygems.org/gems/blank-gem)
-  - [![Version](http://img.shields.io/gem/v/blank-gem.svg?style=flat-square)](https://rubygems.org/gems/blank-gem)
+  - [![Build](http://img.shields.io/travis-ci/krainboltgreene/active_model-changelog.svg?style=flat-square)](https://travis-ci.org/krainboltgreene/active_model-changelog)
+  - [![Downloads](http://img.shields.io/gem/dtv/active_model-changelog.svg?style=flat-square)](https://rubygems.org/gems/active_model-changelog)
+  - [![Version](http://img.shields.io/gem/v/active_model-changelog.svg?style=flat-square)](https://rubygems.org/gems/active_model-changelog)
 
 
 TODO: Write a gem description
@@ -17,7 +17,7 @@ TODO: Write usage instructions here
 
 Add this line to your application's Gemfile:
 
-    gem "blank-gem", "1.0.0"
+    gem "active_model-changelog", "1.0.0"
 
 And then execute:
 
@@ -25,7 +25,7 @@ And then execute:
 
 Or install it yourself with:
 
-    $ gem install blank-gem
+    $ gem install active_model-changelog
 
 
 ## Contributing
